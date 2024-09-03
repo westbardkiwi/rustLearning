@@ -8,3 +8,7 @@ once I figure out more of the language. From what I gather, it is
 memory safe C with some different syntax, macros, and "cargos" in
 place of libraries! Having worked in C, I expect to pick this up,
 all things going well.
+
+# License
+All code is licensed under the GNU General Public License v3.0...
+Please contact the Free Software Foundation for complete license.
